@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,943 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 33
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 37
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 41
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 42
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 43
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 44
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 45
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 46
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 47
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 48
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 49
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 50
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 51
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 52
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 53
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 54
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 55
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 56
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 57
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 58
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 59
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 60
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 61
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 62
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 63
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 64
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 65
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 66
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 67
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 68
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 69
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 70
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 71
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 72
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 73
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 74
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 75
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 76
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 77
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 78
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 79
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 80
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 81
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 82
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 83
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 84
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 85
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 86
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 87
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 88
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 89
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 90
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 91
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 92
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 93
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 94
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 95
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 96
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 97
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 98
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 99
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 100
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 101
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 102
+    },
+    {
+      "name": "",
+      "email": "tanopaul34@gmail.com",
+      "id": 103
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 104
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 105
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 106
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 107
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 108
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 109
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 110
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 111
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 112
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 113
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 114
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 115
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 116
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 117
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 118
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 119
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 120
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 121
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 122
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 123
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 124
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 125
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 126
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 127
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 128
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 129
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 130
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 131
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 132
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 133
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 134
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 135
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 136
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 137
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 138
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 139
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 140
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 141
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 142
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 143
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 144
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 145
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 146
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 147
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 148
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 149
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 150
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 151
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 152
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 153
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 154
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 155
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 156
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 157
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 158
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 159
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 160
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 161
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 162
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 163
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 164
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 165
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 166
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 167
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 168
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 169
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 170
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 171
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 172
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 173
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 174
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 175
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 176
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 177
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 178
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 179
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 180
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 181
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 182
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 183
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 184
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 185
+    },
+    {
+      "name": "Tano",
+      "email": "tanopaul34@gmail.com",
+      "id": 186
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
